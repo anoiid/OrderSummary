@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Ordersummay.png)
+![](./design/desktop-preview.jpg)
 
 
 
