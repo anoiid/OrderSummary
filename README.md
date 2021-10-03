@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://anoiid.github.io/OrderSummary/)
+-  [Solution URL:](https://anoiid.github.io/OrderSummary/)
 
 ## My process
 
