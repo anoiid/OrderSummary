@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Ordersummay.png)
+<img width="1440" alt="Ordersummay" src="https://user-images.githubusercontent.com/90121577/135767378-3ac4fa81-9c9d-4551-8c08-9d78ead4f60e.png">
 
 
 
