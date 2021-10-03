@@ -1,0 +1,94 @@
+ body {background: url('../images/pattern-background-desktop.svg');
+ background-color: hsl(225, 100%, 94%);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+display: grid;
+place-items: center;
+
+}
+
+.checkout {text-align: center;
+
+}
+
+.card{
+  margin-top: 30px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 15px 25px 0 hsl(245deg 75% 52% / 11%);
+  overflow: hidden;
+  max-width: 27.5rem;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+height: 43rem;
+    font-size: 1.05rem;
+}
+
+.card__title {font-family: Montserrat;
+font-weight: bolder;
+font-size: 1.7rem;
+padding-top: 1.7rem;
+padding-bottom: .7rem;
+    margin-top: 20px;}
+
+.card__desc {
+  color: hsl(224, 23%, 55%);
+line-height: 1.6;
+padding: 0 2.1em 1.4em 2.1em;
+}
+
+.annual-plan {font-family: Montserrat;
+  font-weight: bold;
+  font-size: 1rem;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+p {padding-left: 20px;
+text-align: left;
+color: hsl(224, 23%, 55%);}
+
+
+
+.plan-box-left {display: flex;
+margin-left: 10px;}
+
+.plan-box-right {padding-right: 20px;}
+
+.plan-box {    background-color: hsl(225, 100%, 98%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1.5em 1.5em 1.5em;
+    /* padding: 0.5em; */
+    border-radius: 10px;}
+
+
+/* .btn {    margin-left: 3rem;
+    margin-right: 3rem;} */
+
+.btnPro {    margin-left: 1.5rem;
+        margin-right: 1.5rem;
+      background-color: hsl(245, 75%, 52%);
+    border-radius: 10px;
+  font-family: "Montserrat";]
+    letter-spacing: 1px;
+  font-weight: 600;
+  font-size: .95rem;
+margin-top: 20px;
+box-shadow: 0 15px 20px 0 hsl(245deg 75% 52% / 25%);}
+
+.cancel-btn {color: hsl(224, 23%, 55%);
+}
+
+.button-holder {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        gap: .65em;
+        margin-bottom: 1.5em;
+    }
+
+.MUSIC-ICON {height: 50px;
+margin-top: 20px;}
